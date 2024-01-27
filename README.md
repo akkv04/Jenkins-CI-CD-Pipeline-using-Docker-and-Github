@@ -41,6 +41,8 @@ The CI/CD pipeline helps to automate building, testing, and deploying the  appli
 
 <img width="658" alt="image" src="https://github.com/akkv04/Jenkins-CI-CD-Pipeline-using-Docker-and-Github/assets/64690489/07b83a88-b48b-4202-9c02-2bf5f36e1a87">
 
+<img width="634" alt="image" src="https://github.com/akkv04/Jenkins-CI-CD-Pipeline-using-Docker-and-Github/assets/64690489/4d07f490-5676-4ebd-a6d8-b145c13b82b9">
+
 <img width="424" alt="image" src="https://github.com/akkv04/Jenkins-CI-CD-Pipeline-using-Docker-and-Github/assets/64690489/d31e47be-41f5-43f2-b94b-7ee758cd520a">
 
 Add a Execute shell step.(we will fill it later)
