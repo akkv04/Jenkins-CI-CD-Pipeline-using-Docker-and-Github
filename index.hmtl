@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jenkins CI/CD Pipeline with Docker and Github</title>
+    <style>
+        /* Add your CSS styling here */
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav li {
+            display: inline;
+            margin-right: 10px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        main {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jenkins CI/CD Pipeline with Docker and Github</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#" onclick="toggleMenu('home')">Home</a></li>
+            <li><a href="#" onclick="toggleMenu('about')">About</a></li>
+            <li><a href="#" onclick="toggleMenu('services')">Services</a></li>
+            <li><a href="#" onclick="toggleMenu('contact')">Contact Us</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2 id="services-heading">Our Services</h2>
+        <ul>
+            <li>Continuous Integration and Delivery</li>
+            <li>Pipeline using Jenkins</li>
+            <li>Containerization using Docker</li>
+            <li>Code changes in Github</li>
+        </ul>
+    </main>
+
+    <script>
+        function toggleMenu(section) {
+            var headings = {
+                'home': 'Welcome to Our Website',
+                'about': 'About Us',
+                'services': 'Our Services',
+                'contact': 'Contact Us'
+            };
+
+            // Update main heading based on the selected section
+            document.getElementById('services-heading').innerText = headings[section];
+
+            // You can add more dynamic behavior here based on the selected section
+        }
+    </script>
+</body>
+</html>
