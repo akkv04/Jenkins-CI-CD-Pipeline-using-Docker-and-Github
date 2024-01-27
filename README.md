@@ -30,7 +30,6 @@ The CI/CD pipeline helps to automate building, testing, and deploying the  appli
 
 
 
-
 ###### Steps.
 
 
@@ -54,6 +53,6 @@ Jenkins Job will be created as
 
 
 Now, we need to create a webhook, which will trigger Jenkins Pipeline when any changes are pushed to the repository
+Goto Settings >> Webhook >> Add a Webhook
 
-
-
+<img width="902" alt="image" src="https://github.com/akkv04/Jenkins-CI-CD-Pipeline-using-Docker-and-Github/assets/64690489/6f4bd9a2-e0b7-4fd1-b223-7e756e3a13e6">
