@@ -37,3 +37,4 @@ The CI/CD pipeline helps to automate building, testing, and deploying the  appli
 <img width="727" alt="image" src="https://github.com/akkv04/Jenkins-CI-CD-Pipeline-using-Docker-and-Github/assets/64690489/076b1aff-155f-4062-9a8f-27878b6f8a9f">
 
 
+<img width="679" alt="image" src="https://github.com/akkv04/Jenkins-CI-CD-Pipeline-using-Docker-and-Github/assets/64690489/0a08375c-0522-4bb9-80b6-1c2c313d2198">
